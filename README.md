@@ -1,5 +1,4 @@
-<!doctype html>
-<html lang="english">
+
     <title> k drama recomendations</title>
     <header><b><h3>for everyone,of every genre...</h3></b> </header>
 </html>
